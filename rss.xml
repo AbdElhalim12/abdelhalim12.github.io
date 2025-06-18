@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 18 Jun 2025 12:36:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[SyncVisibility]]></title>
+            <guid>4fb856d43dee484d8fa8e9fd59cbc5ef</guid>
+            <pubDate>Tue, 25 Feb 2025 06:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p>get all hidden objects in viewport and check if they showed in render and if so disable render.</p>
+<p>Download the zip file, go to preferences -&gt; addons -&gt; install from disk then choose the addon zip file.</p>
+<p>the addon will be sitting the N-Panel -&gt; view</p>
+<p>you got:</p>
+<p><strong>Sync Viewport to Render</strong> which hide the objects in the render that are hidden in the viewport.</p>
+<p><strong>Sync Render to Viewport</strong> will hide the object in the viewport that are hidden in the render</p>
+<p><strong>Show All Objects</strong> will show all the hidden object in both render and viewport</p>
+<p><strong>Hide Unselected</strong> will hide the unselected object in both render and viewport</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
