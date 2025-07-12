@@ -61,17 +61,29 @@
       color: #666;
       margin-bottom: 1rem;
     }
-    .headbar{
-      margin-top: 10px;
-      padding: 10;
-      color: black;
-    }
+    .headbar {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1rem;
+  margin-top: 10px;
+  background: #f0f0f0;
+}
+
+.headbar a {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #333;
+}
+
+.headbar a:hover {
+  text-decoration: underline;
+}
   </style>
   <body>
     <div class="main">
-      <div class="headbar">
-      <h3><a href="/" class="article-item">Home</a></h3>
-    <h3>  <a href="/archives" class="article-item">Tools</a></h3>
+   <div class="headbar">
+  <a href="/" class="article-item">Home</a>
+  <a href="/archives" class="article-item">Tools</a>
 </div>
       <article>
         <header>
